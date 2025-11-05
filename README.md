@@ -2,7 +2,7 @@
 
 # Python for Data Science & AI: Trailblazer Foundations
 **The Gold-Standard Open Reference for Production-Ready Python in AI.**  
-Master NumPy, Pandas, scripting, and ML data prep—optimized for efficiency and scalability. From beginner syntax to vectorized pipelines for GenAI/RAG/LLMs. This repo powers the first module of the [AI Trailblazer Engineering Hub](https://github.com/saiharsha-k/ai-trailblazer-engineering-hub)), bridging basics to market realities.
+Master NumPy, Pandas, scripting, and ML data prep—optimized for efficiency and scalability. From beginner syntax to vectorized pipelines for GenAI/RAG/LLMs. This repo powers the first module of the [AI Trailblazer Engineering Hub](https://github.com/saiharsha-k/ai-trailblazer-engineering-hub), bridging basics to market realities.
 
 Built by **Sai Harsha Kondaveeti**. Follow for deep insights via [AI Trailblazer Newsletter](aitrailblazer.substack.com/subscribe) and [saiharshakondaveeti.com](https://saiharshakondaveeti.com) for full ecosystem.
 
@@ -51,7 +51,7 @@ Run `/benchmarks/comparison.py` for data:
 
 ## Connect & Grow
 - Full Hub: [AI Trailblazer Engineering Hub](https://github.com/saiharsha-k/ai-trailblazer-engineering-hub] | [Live on Site](saiharshakondaveeti.com/ai-trailblazer-hub)
-- Newsletter: [AI Trailblazer]((aitrailblazer.substack.com/subscribe) – Weekly Python/AI deep dives.
+- Newsletter: [AI Trailblazer](aitrailblazer.substack.com/subscribe) – Weekly Python/AI deep dives.
 - LinkedIn: [Follow for Updates](https://linekdin.com/in/saiharshakondaveeti) | Beyond Barriers: Tech wealth strategies.
 
 **Trailblaze with Python: Foundations for Production AI Excellence.**  
