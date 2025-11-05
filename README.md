@@ -50,7 +50,7 @@ Run `/benchmarks/comparison.py` for data:
 - Code of Conduct: [Here](CODE-OF-CONDUCT.md)—Inclusive for global AI builders.
 
 ## Connect & Grow
-- Full Hub: [AI Trailblazer Engineering Hub](https://github.com/saiharsha-k/ai-trailblazer-engineering-hub] | [Live on Site](saiharshakondaveeti.com/ai-trailblazer-hub)
+- Full Hub: [AI Trailblazer Engineering Hub](https://github.com/saiharsha-k/ai-trailblazer-engineering-hub.git] | [Live on Site](saiharshakondaveeti.com/ai-trailblazer-hub)
 - Newsletter: [AI Trailblazer](aitrailblazer.substack.com/subscribe) – Weekly Python/AI deep dives.
 - LinkedIn: [Follow for Updates](https://linekdin.com/in/saiharshakondaveeti) | Beyond Barriers: Tech wealth strategies.
 
